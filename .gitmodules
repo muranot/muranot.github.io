@@ -1,3 +1,6 @@
 [submodule "mt-test"]
 	path = mt-test
 	url = https://github.com/muranot/mt-test.git
+[submodule "diagnosis"]
+	path = diagnosis
+	url = https://github.com/arschool/diagnosis.git
